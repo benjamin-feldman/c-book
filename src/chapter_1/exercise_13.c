@@ -5,8 +5,6 @@ is more challenging. */
 #include <stdio.h>
 #define NBINS 10
 #define BIN_SIZE 1
-#define OUT 0
-#define IN 1
 
 void draw_horizontal(int bins[]) {
   printf("Histogram of word lengths: \n");
