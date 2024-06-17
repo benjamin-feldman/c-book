@@ -1,1 +1,1 @@
-some exercises from <i> The C Programming Language </i>
+some exercises from <i> The C Programming Language </i> by k&r
