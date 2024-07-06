@@ -1,4 +1,4 @@
-basic gdb usage
+# basic gdb usage
 
 first, compile C file with `gcc -o main main.c -g -Wall -Werror` (e.g.)
 
@@ -15,6 +15,6 @@ first, compile C file with `gcc -o main main.c -g -Wall -Werror` (e.g.)
 - `delete $i` delete breakpoint at line $i
 
 misc:
-`<C-l>` to reload the display
-`quit` or `q` to quit
+- `<C-l>` to reload the display
+- `quit` or `q` to quit
 
