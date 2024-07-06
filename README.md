@@ -1,1 +1,3 @@
 some exercises from <i> The C Programming Language </i> by k&r
+
+and some random notes on gcc, gdb, ...
